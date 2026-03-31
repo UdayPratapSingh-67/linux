@@ -7,8 +7,8 @@
 
 | Field | Details |
 |---|---|
-| **Student Name** | *RAHUL KUMAR DWIVEDI* |
-| **Registration Number** |  *24BCE10973* |
+| **Student Name** | *UDAY PRATAP SINGH* |
+| **Registration Number** |  *24AI10919* |
 | **Chosen Software** | Git |
 | **Licence of Software** | GNU General Public License v2 (GPL v2) |
 | **Course** | Open Source Software (OSS NGMC) |
