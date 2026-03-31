@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 # Script 2: FOSS Package Inspector
-# Author: RAHUL| Reg No: 24BCE10973
+# Author: UDAY| Reg No: 24BAI10919
 # Course: Open Source Software | OSS NGMC Capstone Project
 # Description: Checks if a chosen open-source package is
 #              installed, shows its version/license, and
